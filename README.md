@@ -1,4 +1,4 @@
-#Features 
+# FEATURES SUPPORTED BY THE CURRENT VERSION OF APP
    * Registration and login for users (10 marks)
    * Multiple genre of quizzes are a must - at least 2 must be present.
    – Example of genres: movies, sports, politics
